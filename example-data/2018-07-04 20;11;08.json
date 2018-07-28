@@ -1,0 +1,144 @@
+{
+ "stations": [
+  {
+   "station": "Texaco Houston",
+   "addresses": [
+    {
+     "address": "7901 S Main St",
+     "price": "$3.00"
+    }
+   ]
+  },
+  {
+   "station": "Kroger Fuel Center",
+   "addresses": [
+    {
+     "address": "7747 Kirby Dr",
+     "price": "$2.66"
+    }
+   ]
+  },
+  {
+   "station": "Shell",
+   "addresses": [
+    {
+     "address": "1740 US-90 ALT",
+     "price": "$2.80"
+    },
+    {
+     "address": "2302 W Holcombe Blvd",
+     "price": "$2.68"
+    },
+    {
+     "address": "2540 W Holcombe Blvd",
+     "price": "$3.15"
+    },
+    {
+     "address": "1620 S Loop W",
+     "price": ""
+    }
+   ]
+  },
+  {
+   "station": "Exxon",
+   "addresses": [
+    {
+     "address": "9200 S Main St",
+     "price": ""
+    },
+    {
+     "address": "7500 Almeda Rd",
+     "price": "$2.76"
+    },
+    {
+     "address": "2539 Bissonnet St",
+     "price": "$2.70"
+    }
+   ]
+  },
+  {
+   "station": "Valero Corner Store",
+   "addresses": [
+    {
+     "address": "8301 Knight Rd",
+     "price": "$2.64"
+    },
+    {
+     "address": "9365 S Main St",
+     "price": "$2.64"
+    },
+    {
+     "address": "5415 Kirby Dr",
+     "price": "$2.64"
+    }
+   ]
+  },
+  {
+   "station": "Valero",
+   "addresses": [
+    {
+     "address": "",
+     "price": ""
+    }
+   ]
+  },
+  {
+   "station": "Chevron",
+   "addresses": [
+    {
+     "address": "2424 Old Spanish Trail",
+     "price": "$3.00"
+    },
+    {
+     "address": "8550 Almeda Rd",
+     "price": "$2.90"
+    }
+   ]
+  },
+  {
+   "station": "MED CENTER CITGO",
+   "addresses": [
+    {
+     "address": "2802 Old Spanish Trail",
+     "price": "$2.74"
+    }
+   ]
+  },
+  {
+   "station": "Moudry Motors",
+   "addresses": [
+    {
+     "address": "8001 Braesmain Dr",
+     "price": ""
+    }
+   ]
+  },
+  {
+   "station": "Circle K",
+   "addresses": [
+    {
+     "address": "9365 S Main St",
+     "price": ""
+    }
+   ]
+  },
+  {
+   "station": "Sunoco Gas Station",
+   "addresses": [
+    {
+     "address": "2329 Southmore Blvd",
+     "price": "$2.66"
+    }
+   ]
+  },
+  {
+   "station": "Texaco",
+   "addresses": [
+    {
+     "address": "9598 S Main St",
+     "price": "$2.70"
+    }
+   ]
+  }
+ ]
+}
